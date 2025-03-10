@@ -27,7 +27,7 @@ export default function HeroDivider() {
           <Typography variant='h3' fontWeight={500} sx={{backgroundImage: 'linear-gradient(to right, #121FCF 0%, #CF1512 100%)',
             webkitBackgroundClip: 'text', backgroundClip: 'text', color:'transparent'
           }}>
-        sample preparation of Material Ui/ Aravind
+        sample preparation of Material Ui
        </Typography>      
         </Box>
       <Divider />
